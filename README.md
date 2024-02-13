@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Muskan Sheikh.
+- I am an aspiring Frontend Developer.
+- 👀 I’m interested in exploring new things.
+- 🌱 I’m currently learning MERN Stack.
+- 📫 How to reach me muskansheikh5201@gmail.com
+- 😄 Pronouns: coder
+- ⚡ Fun fact: I am like a coding magician! Making problems disappear faster than a rabbit in a hat.
