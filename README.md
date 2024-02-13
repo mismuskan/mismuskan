@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muskan Sheikh.
-- I am an aspiring Frontend Developer.
-- 👀 I’m interested in exploring new things.
+- 👀 I am an Aspiring Frontend Developer.
 - 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me muskansheikh5201@gmail.com
 - 😄 Pronouns: coder
